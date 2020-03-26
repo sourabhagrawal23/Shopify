@@ -1,7 +1,7 @@
 # Shopify
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Only 72 Mb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
+[![Only 72 Mb](https://img.shields.io/badge/size-71.2%20mB-green)]((https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js))
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com/en/download/)
