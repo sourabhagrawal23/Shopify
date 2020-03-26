@@ -1,10 +1,15 @@
 # Shopify
-Desktop based application for shopping of mobiles and accessories. Developed using Java SE for Frontend as well as Backand. Used MYSQL Database.
+Desktop based application for shopping of mobiles and accessories. Developed using Java SE for Frontend as well as Backend. Used MYSQL Database.
 
 If you like this repo then please give it a ⭐️
 
-# Screenshots
-
+## Things you need before getting started
+1. Technical Requirements:
+   1. The Project requires [JDK 7](https://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) or higher.
+   1. [MYSQL Command Line Client](https://dev.mysql.com/downloads/mysql/) must be installed on your computer.
+## IMP
+The Project may involve any sort of bug and it is currently under development and is subject to change.
+## Screenshots
 ![0](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/0.png?raw=true)
 
 ![1](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/1.png?raw=true)
@@ -58,3 +63,9 @@ If you like this repo then please give it a ⭐️
 ![25](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/19.PNG?raw=true)
 
 ![26](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/20.PNG?raw=true)
+
+# Developed and Maintained by
+
+[Sourabh Agrawal](http://github.com/sourabhagrawal23) | [Linkedin](https://www.linkedin.com/in/sourabhkhs/)
+
+
