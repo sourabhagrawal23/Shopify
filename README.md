@@ -1,4 +1,15 @@
 # Shopify
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Only 72 Mb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com/en/download/)
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://github.com/sourabhagrawal23/shopify)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/sourabhagrawal23/Shopify/pulls)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://linkedin.com/in/sourabhkhs)
+
+
 Desktop based application for shopping of mobiles and accessories. Developed using Java SE for Frontend as well as Backend. Used MYSQL Database.
 
 If you like this repo then please give it a ⭐️
