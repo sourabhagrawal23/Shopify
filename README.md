@@ -1,5 +1,7 @@
 # Shopify
-Desktop based application for shopping of mobiles and accessories. Developed using Java SE for Frontend as well as Backand. Used MYSQL Daatabase.
+Desktop based application for shopping of mobiles and accessories. Developed using Java SE for Frontend as well as Backand. Used MYSQL Database.
+
+If you like this repo then please give it a ⭐️
 
 # Screenshots
 
