@@ -4,6 +4,7 @@ Desktop based application for shopping of mobiles and accessories. Developed usi
 If you like this repo then please give it a ⭐️
 
 ## Things you need before getting started
+
 1. Technical Requirements:
    1. The Project requires [JDK 7](https://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) or higher.
    1. [MYSQL Command Line Client](https://dev.mysql.com/downloads/mysql/) must be installed on your computer.
@@ -66,6 +67,6 @@ The Project may involve any sort of bug as it is currently under development and
 
 # Developed and Maintained by
 
-[Sourabh Agrawal](http://github.com/sourabhagrawal23) | [Linkedin](https://www.linkedin.com/in/sourabhkhs/)
+Sourabh Agrawal[:octocat:Github](http://github.com/sourabhagrawal23) | [Linkedin](https://www.linkedin.com/in/sourabhkhs/)
 
 
