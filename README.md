@@ -30,11 +30,11 @@ The Project may involve any sort of bug as it is currently under development and
 
 ![2](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/2.png?raw=true)
 
-![3](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/3.PNG?raw=true)
+![3](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/3.png)
 
-![5](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/5.PNG?raw=true)
+![5](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/5.png)
 
-![6](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/6.PNG?raw=true)
+![6](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/6.png)
 
 ![7](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/7.PNG?raw=true)
 
@@ -66,7 +66,7 @@ The Project may involve any sort of bug as it is currently under development and
 
 ![21](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/16.PNG?raw=true)
 
-![22](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/17.PNG?raw=true)
+![22](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/17.png)
 
 ![23](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/index.PNG?raw=true)
 
