@@ -32,8 +32,6 @@ The Project may involve any sort of bug as it is currently under development and
 
 ![3](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/3.PNG?raw=true)
 
-![4](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/4.PNG?raw=true)
-
 ![5](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/5.PNG?raw=true)
 
 ![6](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/6.PNG?raw=true)
