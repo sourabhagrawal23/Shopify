@@ -18,7 +18,7 @@ If you like this repo then please give it a ⭐️
 
 1. Technical Requirements:
    1. The Project requires [JDK 7](https://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) or higher.
-   2. [MYSQL Command Line Client](https://dev.mysql.com/downloads/mysql/) must be installed on your computer.
+   2. [MYSQL](https://dev.mysql.com/downloads/mysql/) must be installed on your computer.
 2. Setting Up:
    1. Contact Owner
 
