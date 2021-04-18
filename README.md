@@ -21,8 +21,7 @@ If you like this repo then please give it a ⭐️
    2. [MYSQL Command Line Client](https://dev.mysql.com/downloads/mysql/) must be installed on your computer.
 2. Setting Up:
    1. Contact Owner
-## IMP
-The Project may involve any sort of bug as it is currently under development and is subject to change.
+
 ## Screenshots
 ![0](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/0.png?raw=true)
 
