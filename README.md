@@ -22,6 +22,11 @@ If you like this repo then please give it a ⭐️
 2. Setting Up:
    1. Contact Owner
 
+
+## Database Design 
+![0](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/shopify_db_design.png)
+
+
 ## Screenshots
 ![0](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/0.png?raw=true)
 
